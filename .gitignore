@@ -1,0 +1,12 @@
+# Ignore uploads folder
+uploads/
+
+# Ignore all PDFs
+*.pdf
+
+# Ignore images in a folder
+images/
+
+# Ignore OS/editor files
+.DS_Store
+Thumbs.db
